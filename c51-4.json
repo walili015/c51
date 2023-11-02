@@ -1,0 +1,24 @@
+{
+  "AdsController": {
+    "adNetwork": "applovin",
+    "admobBanner": "",
+    "admobInterstitial": "ca-app-pub-3940256099942544/1033173712",
+    "applovinBanner": "",
+    "applovinInterstitial": "e140393085775960",
+    "ratingactive": true,
+    "appsuspand": false,
+    "appURL": "https://play.google.com/store/apps/details?id=com.whosyourdaddy.yoki",
+    "modeads": false,
+    "IMG0_URL": "https://cross-pan.netlify.app/00-00.jpg",
+    "TEXT0_URL": "https://play.google.com/store/apps/details?id=XXXXXXXXXX",
+    "modeads2": false,
+    "IMG1_URL": "https://cross-pan.netlify.app/1-1.jpg",
+    "TEXT1_URL": "https://play.google.com/store/apps/details?id=XXXXXXXXXX",
+    "IMG2_URL": "https://cross-pan.netlify.app/2-2.jpg",
+    "TEXT2_URL": "https://play.google.com/store/apps/details?id=XXXXXXXXXX",
+    "IMG3_URL": "https://cross-pan.netlify.app/3-3.jpg",
+    "TEXT3_URL": "https://play.google.com/store/apps/details?id=XXXXXXXXXX",
+    "IMG4_URL": "https://cross-pan.netlify.app/4-4.jpg",
+    "TEXT4_URL": "https://play.google.com/store/apps/details?id=XXXXXXXXXX"
+  }
+}
